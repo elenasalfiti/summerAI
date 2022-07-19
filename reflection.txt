@@ -1,1 +1,2 @@
-hi 
+I learnt how new the field of artifical intelligence is and how much opportunity there is for research to expand the field. 
+I also found it interesting to learn about rational agents and how to describe their environments and performance measures.  
