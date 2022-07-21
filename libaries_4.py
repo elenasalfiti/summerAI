@@ -4,8 +4,6 @@ from random import randint as r
 from random import shuffle as sh
 from random import choice as c 
 
-
-
 result_1 = p(2,4)
 print("result_1 is", result_1)
 
